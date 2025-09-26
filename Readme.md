@@ -49,5 +49,5 @@ Projeto desenvolvido com base no curso de JavaScript do CursoemVídeo, por Gusta
 ---
 # 💡 Visualizar
 
-git clone https://github.com/richeliane-moura/projeto-verificador-idade.git
+ https://richeliane-moura.github.io/verificador-idade/
 
